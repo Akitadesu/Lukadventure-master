@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemigos
+  - groundcoll
+  - paredFalsa
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemigo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: nubes
+    uniqueID: 2575363575
+    locked: 0
+  - name: oculto
+    uniqueID: 1559845539
+    locked: 0
+  - name: game
+    uniqueID: 1099498549
+    locked: 0
+  - name: paredfalsa
+    uniqueID: 1278860453
+    locked: 0
+  - name: GUI
+    uniqueID: 848689013
+    locked: 0

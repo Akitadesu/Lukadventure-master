@@ -1,0 +1,1968 @@
+fileFormatVersion: 2
+guid: 27c787d3ed4893c4a8cfae6569ed30e8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Derecha_0
+    21300002: Derecha_1
+    21300004: Derecha_2
+    21300006: Derecha_3
+    21300008: Derecha_4
+    21300010: Derecha_5
+    21300012: Derecha_6
+    21300014: Derecha_7
+    21300016: Derecha_8
+    21300018: Derecha_9
+    21300020: Derecha_10
+    21300022: Derecha_11
+    21300024: Derecha_12
+    21300026: Derecha_13
+    21300028: Derecha_14
+    21300030: Derecha_15
+    21300032: Derecha_16
+    21300034: Derecha_17
+    21300036: Derecha_18
+    21300038: Derecha_19
+    21300040: Derecha_20
+    21300042: Derecha_21
+    21300044: Derecha_22
+    21300046: Derecha_23
+    21300048: Derecha_24
+    21300050: Derecha_25
+    21300052: Derecha_26
+    21300054: Derecha_27
+    21300056: Derecha_28
+    21300058: Derecha_29
+    21300060: Derecha_30
+    21300062: Derecha_31
+    21300064: Derecha_32
+    21300066: Derecha_33
+    21300068: Derecha_34
+    21300070: Derecha_35
+    21300072: Derecha_36
+    21300074: Derecha_37
+    21300076: Derecha_38
+    21300078: Derecha_39
+    21300080: Derecha_40
+    21300082: Derecha_41
+    21300084: Derecha_42
+    21300086: Derecha_43
+    21300088: Derecha_44
+    21300090: Derecha_45
+    21300092: Derecha_46
+    21300094: Derecha_47
+    21300096: Derecha_48
+    21300098: Derecha_49
+    21300100: Derecha_50
+    21300102: Derecha_51
+    21300104: Derecha_52
+    21300106: Derecha_53
+    21300108: Derecha_54
+    21300110: Derecha_55
+    21300112: Derecha_56
+    21300114: Derecha_57
+    21300116: Derecha_58
+    21300118: Derecha_59
+    21300120: Derecha_60
+    21300122: Derecha_61
+    21300124: Derecha_62
+    21300126: Derecha_63
+    21300128: Derecha_64
+    21300130: Derecha_65
+    21300132: Derecha_66
+    21300134: Derecha_67
+    21300136: Derecha_68
+    21300138: Derecha_69
+    21300140: Derecha_70
+    21300142: Derecha_71
+    21300144: Derecha_72
+    21300146: Derecha_73
+    21300148: Derecha_74
+    21300150: Derecha_75
+    21300152: Derecha_76
+    21300154: Derecha_77
+    21300156: Derecha_78
+    21300158: Derecha_79
+    21300160: Derecha_80
+    21300162: Derecha_81
+    21300164: Derecha_82
+    21300166: Derecha_83
+    21300168: Derecha_84
+    21300170: Derecha_85
+    21300172: Derecha_86
+    21300174: Derecha_87
+    21300176: Derecha_88
+    21300178: Derecha_89
+    21300180: Derecha_90
+    21300182: Derecha_91
+    21300184: Derecha_92
+    21300186: Derecha_93
+    21300188: Derecha_94
+    21300190: Derecha_95
+    21300192: Derecha_96
+    21300194: Derecha_97
+    21300196: Derecha_98
+    21300198: Derecha_99
+    21300200: Derecha_100
+    21300202: Derecha_101
+    21300204: Derecha_102
+    21300206: Derecha_103
+    21300208: Derecha_104
+    21300210: Derecha_105
+    21300212: Derecha_106
+    21300214: Derecha_107
+    21300216: Derecha_108
+    21300218: Derecha_109
+    21300220: Derecha_110
+    21300222: Derecha_111
+    21300224: Derecha_112
+    21300226: Derecha_113
+    21300228: Derecha_114
+    21300230: Derecha_115
+    21300232: Derecha_116
+    21300234: Derecha_117
+    21300236: Derecha_118
+    21300238: Derecha_119
+    21300240: Derecha_120
+    21300242: Derecha_121
+    21300244: Derecha_122
+    21300246: Derecha_123
+    21300248: Derecha_124
+    21300250: Derecha_125
+    21300252: Derecha_126
+    21300254: Derecha_127
+    21300256: Derecha_128
+    21300258: Derecha_129
+    21300260: Derecha_130
+    21300262: Derecha_131
+    21300264: Derecha_132
+    21300266: Derecha_133
+    21300268: Derecha_134
+    21300270: Derecha_135
+    21300272: Derecha_136
+    21300274: Derecha_137
+    21300276: Derecha_138
+    21300278: Derecha_139
+    21300280: Derecha_140
+    21300282: Derecha_141
+    21300284: Derecha_142
+    21300286: Derecha_143
+    21300288: Derecha_144
+    21300290: Derecha_145
+    21300292: Derecha_146
+    21300294: Derecha_147
+    21300296: Derecha_148
+    21300298: Derecha_mrluka_0
+    21300300: Derecha_mrluka_1
+    21300302: Derecha_mrluka_2
+    21300304: Derecha_mrluka_3
+    21300306: Derecha_mrluka_4
+    21300308: Derecha_mrluka_5
+    21300310: Derecha_mrluka_6
+    21300312: Derecha_mrluka_7
+    21300314: Derecha_mrluka_8
+    21300316: Derecha_mrluka_9
+    21300318: Derecha_mrluka_10
+    21300320: Derecha_mrluka_11
+    21300322: Derecha_mrluka_12
+    21300324: Derecha_mrluka_13
+    21300326: Derecha_mrluka_14
+    21300328: Derecha_mrluka_15
+    21300330: Derecha_mrluka_18
+    21300332: Derecha_mrluka_19
+    21300334: Derecha_mrluka_20
+    21300336: Derecha_mrluka_21
+    21300338: Derecha_mrluka_22
+    21300340: Derecha_mrluka_23
+    21300342: Derecha_mrluka_24
+    21300344: Derecha_mrluka_25
+    21300346: Derecha_mrluka_26
+    21300348: Derecha_mrluka_27
+    21300350: Derecha_mrluka_28
+    21300352: Derecha_mrluka_29
+    21300354: Derecha_mrluka_30
+    21300356: Derecha_mrluka_31
+    21300358: Derecha_mrluka_32
+    21300360: Derecha_mrluka_36
+    21300362: Derecha_mrluka_37
+    21300364: Derecha_mrluka_38
+    21300366: Derecha_mrluka_39
+    21300368: Derecha_mrluka_40
+    21300370: Derecha_mrluka_41
+    21300372: Derecha_mrluka_43
+    21300374: Derecha_mrluka_44
+    21300376: Derecha_mrluka_45
+    21300378: Derecha_mrluka_46
+    21300380: Derecha_mrluka_47
+    21300382: Derecha_mrluka_48
+    21300384: Derecha_mrluka_49
+    21300386: Derecha_mrluka_50
+    21300388: Derecha_mrluka_51
+    21300390: Derecha_mrluka_52
+    21300392: Derecha_mrluka_54
+    21300394: Derecha_mrluka_55
+    21300396: Derecha_mrluka_56
+    21300398: Derecha_mrluka_65
+    21300400: Derecha_mrluka_66
+    21300402: Derecha_mrluka_67
+    21300404: Derecha_mrluka_70
+    21300406: Derecha_mrluka_71
+    21300408: Derecha_mrluka_72
+    21300410: Derecha_mrluka_73
+    21300412: Derecha_mrluka_74
+    21300414: Derecha_mrluka_76
+    21300416: Derecha_mrluka_78
+    21300418: Derecha_mrluka_80
+    21300420: Derecha_mrluka_81
+    21300422: Derecha_mrluka_82
+    21300424: Derecha_mrluka_84
+    21300426: Derecha_mrluka_87
+    21300428: Derecha_mrluka_89
+    21300430: Derecha_mrluka_90
+    21300432: Derecha_mrluka_91
+    21300434: Derecha_mrluka_93
+    21300436: Derecha_mrluka_95
+    21300438: Derecha_mrluka_96
+    21300440: Derecha_mrluka_97
+    21300442: Derecha_mrluka_98
+    21300444: Derecha_mrluka_99
+    21300446: Derecha_mrluka_126
+    21300448: Derecha_mrluka_127
+    21300450: Derecha_mrluka_128
+    21300452: Derecha_mrluka_129
+    21300454: Derecha_mrluka_131
+    21300456: Derecha_mrluka_133
+    21300458: Derecha_mrluka_134
+    21300460: Derecha_mrluka_141
+    21300462: Derecha_mrluka_142
+    21300464: Derecha_mrluka_143
+    21300466: Derecha_mrluka_144
+    21300468: Derecha_mrluka_145
+    21300470: Derecha_mrluka_146
+    21300472: Derecha_mrluka_147
+    21300474: Derecha_mrluka_148
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Derecha_mrluka_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 535
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea09a316d303acf48a7de7e5c4ade1cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 536
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1f80d9d25ef1249bac0f3f68bdfb17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 539
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348ef897519f0994cb7c3a31c22f56b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 542
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433c78434c0f4e74ea67198620001f5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_4
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 541
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56defd331ba69d94485034574f30a600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 538
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f661c02b582bf946b0cc5979d228ad0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 535
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434aa4ce568f5954a8221d344115736c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_8
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 535
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b19668cc282e247a617a19cd3a5e4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_9
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 537
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebc9a3a7fc7e0645aed41466a26c95e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 539
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcf7781d7f4f1846b7f985fe199d664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_11
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 542
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba412f29a04cf54b9e30d2f636e56d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_12
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 541
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3438a15ec0a97fc45bba6229c3d7d474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 540
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e329324527e5add449c8dfca2d749932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_14
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 537
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedd2a4aa68ff744d80c7b0badad20a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_15
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 535
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bb68ee55413be43be1693918e6a5bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 460
+        width: 28
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14465d164bc46404481045da8b2c525a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 460
+        width: 28
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436da3f8277523649b8cbdd76535fc9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 460
+        width: 29
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6968b13adcd3f42ba3170a7b735571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 460
+        width: 34
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630da198d80f78449bf83f3a8ab49893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_22
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 460
+        width: 32
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f2c1902e9d2f846afff186fdd36a98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_23
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 460
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757e2621153019a4b8062b6435245e85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_24
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 460
+        width: 33
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7332d770834d5429c40a85dfc935c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 460
+        width: 28
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b39b39edd35e0c4e917bdd7d9feaa1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_26
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 460
+        width: 28
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff46269d93705a48af894643f967b2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_27
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 460
+        width: 28
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85697c6ecc4480c46af583734d1f411b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_28
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 460
+        width: 33
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee495046534631459f1fb3021074efe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_29
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 460
+        width: 38
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086e4455a70aff94c8e1dfd287250251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_30
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 460
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bdecaf2424ba343b312580fe7d4660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_31
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 460
+        width: 32
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6dfcbac8fd16a42810d090382eca9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_32
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 460
+        width: 28
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3b8fcf1a55a5b44aa410fb7f5fa3c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 383
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b8ae8ea95f2bb4ea1dd492ed95a9a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 383
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b87a6f0067eddd4895a1ea3be1299cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 383
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b4c9253e0db904385a4f85a0532330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_39
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 383
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdffc6bacb9d0024386afc0ab4063f3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 383
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1f3348a3a6e7f4b92d9983fdefc73d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_41
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 383
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eced7d21a58335445bf4c667ce00bd80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 309
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0a6bdb96526dd49a4f4e2ad8e69570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_44
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 309
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6f47353afbcf94ca4b7011c6db20af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_45
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 309
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae561ff6acb61e4189b8f83f26f9988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_46
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 309
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7e488cafd1db4488f2a09f1aab07ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_47
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 309
+        width: 43
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbf8d383bb7def4dae2adecc22f53e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_48
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 309
+        width: 46
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f7a862ace85474094434a67f156bc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_49
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 309
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed9f1a9467bd854e810c6ec440718e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_50
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 308
+        width: 36
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4333deb737e50a54b8523ceabc7c18c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_51
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 308
+        width: 41
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1cc0cf9ff6ad04aa7ab0cd6fe51714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_52
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 311
+        width: 45
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d354385ea44620a47934db82733a3ad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_54
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 315
+        width: 43
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d87fef130e4ce4a9501741a4242274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_55
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 317
+        width: 45
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926bfddb1fddfd24193c47c9d4c5b93e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_56
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 318
+        width: 45
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93afa129da684ae428c924e811f57600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_65
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 240
+        width: 46
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3645b2be0e8e0db419319befd807a8ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 237
+        width: 45
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f05ebb39172f914596cbeaae69eb62e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 234
+        width: 41
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8afe3b7f8d80b40b1819f671dd2c57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_70
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 234
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ac48124a6a2d349b6c2e0d08cac711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_71
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 234
+        width: 34
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e981c0f29083fec4ca46587b4f4c23b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_72
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 234
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68143edc61a5034ebf0ae0bc855ae9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_73
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 159
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f908e62cc4ff2d4c9cf898ab27f7544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_74
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 159
+        width: 43
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b0dfa33e5cb7a40bfe734e5dc20188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 51
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6488840072fcb7f4bac1e96534329147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_78
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 159
+        width: 51
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f504b8b06f12f444aa95a2c3d811355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_80
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 159
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cce042cd7ff694eb93177f92bbca8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_81
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 159
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98675bbde07f72948b38c30e615813c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_82
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 159
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7831d5fbdf5e4a44a77cd598124c838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_84
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 159
+        width: 53
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe3623572941b04fb36c85d818fa6d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_87
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 159
+        width: 62
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6070efa57e46c5a438d4d5a0a17a4c69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_89
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 159
+        width: 45
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751bdbb7e800ccc40b66788cacd83aa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_90
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 159
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8c3c8565d8d864e87e7f25740e10cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_91
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 159
+        width: 48
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7e7a6c741549e428978786857e727a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_93
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 159
+        width: 56
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f8aa15443dec54c9e63759678cf092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_95
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 159
+        width: 58
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffb00c7eb66be04b87df58ba0c2cf95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_98
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 159
+        width: 56
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a53370b2642c3543818d198e91f62d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_131
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 84
+        width: 51
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772344075d339104b93aa21498d4e7a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_133
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 84
+        width: 43
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a219b7cffadaf948a66ada80c9239e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_134
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 84
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc6a6104752843418375d9a9dfa02e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_141
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 48
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4ab9e832bf9c14abb4ce020ba7bfc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_142
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 9
+        width: 48
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c19054b90672842b47118352b66322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_143
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 9
+        width: 48
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d5f7806fbb162488162350e35a6afa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_144
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 9
+        width: 48
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69536cfac492fe45bfe06cc3e37fc0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_145
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 9
+        width: 48
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502b656565806b9428795cf72bcbda40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_146
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 9
+        width: 48
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d2f11fec1bd1e46bed3c54e63da0d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_147
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 9
+        width: 48
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513675cac08d39a428497b150dbfb99a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derecha_mrluka_148
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 9
+        width: 48
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5f3fb5f6d523e4c8892011533da44c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9d4102dd0fdf5484488a11a6d70e627c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

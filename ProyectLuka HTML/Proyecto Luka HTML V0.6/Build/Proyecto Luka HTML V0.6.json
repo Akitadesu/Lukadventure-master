@@ -1,0 +1,12 @@
+{
+"companyName": "Akitadesu's works",
+"productName": "Luka's project V0.5",
+"dataUrl": "Proyecto Luka HTML V0.6.data.unityweb",
+"wasmCodeUrl": "Proyecto Luka HTML V0.6.wasm.code.unityweb",
+"wasmFrameworkUrl": "Proyecto Luka HTML V0.6.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
